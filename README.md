@@ -50,4 +50,7 @@ y = 2
 The compiler does a minimal amount of error checking to help
 highlight the structure of the compiler.
 
+### Copyright
 
+* Copyright (C) 2001 by [Marc Feeley](http://www.iro.umontreal.ca/~feeley/), All Rights Reserved. 
+* [Marc Feeley](https://github.com/feeley?tab=repositories)
