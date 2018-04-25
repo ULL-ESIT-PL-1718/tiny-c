@@ -8,7 +8,7 @@ is not possible to declare new variables.  The compiler reads the
 program from standard input and prints out the value of the
 variables that are not zero.  The grammar of Tiny-C in EBNF is:
 
-```yacc
+```ebnf
  <program> ::= <statement>
  <statement> ::= "if" <paren_expr> <statement> |
                  "if" <paren_expr> <statement> "else" <statement> |
